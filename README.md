@@ -26,7 +26,7 @@ MediConnect solves this by binding every action to authenticated identity, not u
 Firebase Email/Password Authentication
 
 Strict role-based routing & access control
-
++0
 Independent flows for:
 
 👤 Patient

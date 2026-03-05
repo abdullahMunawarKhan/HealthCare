@@ -431,8 +431,9 @@ const App = () => {
                 Developed By
               </h3>
               <p className="mt-3 text-slate-400 text-[12px] leading-relaxed">
-                Crafted with precision and innovation by the team at <br />
-                <span className="font-bold text-emerald-500">Tech-Forge</span>.
+                Crafted with precision and innovation by the team <br />
+                <span className="font-bold text-emerald-500">Abdul Raheman Munawar Khan</span>.
+                <span className="font-bold text-emerald-500">Awez Mirza </span>
                 <br />
                 Building next-generation digital healthcare experiences.
               </p>
